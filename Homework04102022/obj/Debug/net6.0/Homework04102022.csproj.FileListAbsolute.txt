@@ -1,0 +1,15 @@
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\bin\Debug\net6.0\Homework04102022.exe
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\bin\Debug\net6.0\Homework04102022.deps.json
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\bin\Debug\net6.0\Homework04102022.runtimeconfig.json
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\bin\Debug\net6.0\Homework04102022.dll
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\bin\Debug\net6.0\Homework04102022.pdb
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\obj\Debug\net6.0\Homework04102022.csproj.AssemblyReference.cache
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\obj\Debug\net6.0\Homework04102022.GeneratedMSBuildEditorConfig.editorconfig
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\obj\Debug\net6.0\Homework04102022.AssemblyInfoInputs.cache
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\obj\Debug\net6.0\Homework04102022.AssemblyInfo.cs
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\obj\Debug\net6.0\Homework04102022.csproj.CoreCompileInputs.cache
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\obj\Debug\net6.0\Homework04102022.dll
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\obj\Debug\net6.0\refint\Homework04102022.dll
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\obj\Debug\net6.0\Homework04102022.pdb
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\obj\Debug\net6.0\Homework04102022.genruntimeconfig.cache
+D:\DISK D\Обучение\!!2022 ГикБрейнс\1Q\2022.09 Знакомство с языками программирования С#\Homework_C#\Homework04102022\obj\Debug\net6.0\ref\Homework04102022.dll
